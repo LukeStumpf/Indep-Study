@@ -2,5 +2,5 @@
 Deliverables for Independent Study
 
 # Controls
-Use Q,W,E to rotate the cube on different axes
+Use Q,W,E to rotate the cube on different axes\n
 Use A,S,D to rotate in the opposite direction
